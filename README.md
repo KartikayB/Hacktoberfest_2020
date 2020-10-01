@@ -4,3 +4,5 @@ The repository is made for anyone and anyone who has set foot in the domain of "
 Feel free to contribute in any language, any art work or as the way you like it.<br />
 
 Please feel free to add new folders for your unique work.
+
+If facinf error while uploadind feel free to upload it out of folder !!!
